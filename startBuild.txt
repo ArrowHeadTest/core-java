@@ -7,3 +7,4 @@
 201905171503_gmajoros@aitia.ai #smallJMeterTest
 201905171522_gmajoros@aitia.ai #bigJMeterTest
 201905200854_gmajoros@aitia.ai #bigJMeterTest
+201905200916_tbordi@aitia.ai #smallJmeterTest
